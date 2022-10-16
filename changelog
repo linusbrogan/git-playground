@@ -1,4 +1,5 @@
 * S/MIME signed
+* S/MIME signed
 * GPG signed (matched email)
 * GPG signed (mismatched email)
 * Signed off
