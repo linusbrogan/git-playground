@@ -1,0 +1,10 @@
+signoff
+`git commit -s`
+
+gpg sign
+`git commit -S<keyid>`
+
+gpg smime https://www.hifis.net/tutorial/2020/04/15/smime-signing-git-commits.html
+`sudo apt install gpgsm`
+`gpgsm --import crt.pfx`
+`gpgsm`
